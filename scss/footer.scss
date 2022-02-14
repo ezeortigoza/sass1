@@ -1,0 +1,31 @@
+footer{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(136,192,214,1) 100%, rgba(0,212,255,1) 100%);
+
+     ul a font{
+         &:hover{
+             text-decoration: none;
+             background: rgb(2,0,36);
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,168,228,1) 0%, rgba(0,212,255,1) 100%);
+             
+             
+         }
+       
+     } 
+     font{
+         color: black;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+
+  }
+
+
+
+
+
+
+
+
+
+
+

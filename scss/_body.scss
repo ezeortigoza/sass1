@@ -1,0 +1,45 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(154,216,230,1) 0%);
+    nav{
+         ul li a{
+             &:hover{
+                background: rgb(2,0,36);
+                background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(35,83,102,1) 100%, rgba(0,212,255,1) 100%);
+                font-family: Georgia, 'Times New Roman', Times, serif;
+             }
+
+         }
+
+    }
+    h1{
+        color: #1f3338;
+    }
+    h2{
+      color: #1f3338
+    }
+    h5{
+        font-size: xx-large;
+        color:#405f6b ;
+    }
+    p{
+        font-size: x-large;
+    }
+    .fondo{
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(136,192,214,1) 100%, rgba(0,212,255,1) 100%);
+    }
+    a{
+        color: black;
+    }
+    
+    
+
+
+
+
+}    
+
+   
+    
+    
